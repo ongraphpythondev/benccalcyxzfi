@@ -21,7 +21,7 @@
   <img align="center" alt="classic ASP (Active Server Pages)" height="28" width="56" src="https://user-images.githubusercontent.com/88748637/150883584-f1a99b8d-bd54-49de-b7ad-6b06c77f03d3.png">
   <img align="center" alt="Visual Basic 6" height="28" width="56" src="https://user-images.githubusercontent.com/88748637/150884149-e5d5cfce-f07c-4504-97fa-a00fd5741ad4.png">
 </div>
-
+[![benccalcyxzfi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=benccalcyxzfi)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 vstfg/vstfg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
