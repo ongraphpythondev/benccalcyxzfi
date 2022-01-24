@@ -15,6 +15,7 @@
   <img align="center" alt="benccalcyxzfi-js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="benccalcyxzfi-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="benccalcyxzfi-csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   <img align="center" alt="benccalcyxzfi-python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <!---
 vstfg/vstfg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
