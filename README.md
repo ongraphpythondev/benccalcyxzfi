@@ -2,8 +2,8 @@
   <img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square">
   <a href="https://2no.co/2aahQ6" target="_blank" rel="noopener noreferrer"><img align="center" alt="benccalcyxzfi-msqlserver"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
-- 👋 Hi, I’m @benccalcyxzfi
-- 👀 I’m interested in dev, fitness and true science
+- 👋 Hi, I’m @benccalcyxzfi </br>
+- 👀 I’m interested in dev, fitness and true science  </br>
 
 <div align="center">
   <a href="https://github.com/benccalcyxzfi">
