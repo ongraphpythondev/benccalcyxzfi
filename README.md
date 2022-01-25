@@ -20,5 +20,6 @@
   <img align="center" alt="benccalcyxzfi-msqlserver"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="classic ASP (Active Server Pages)" height="28" width="56" src="https://user-images.githubusercontent.com/88748637/150883584-f1a99b8d-bd54-49de-b7ad-6b06c77f03d3.png">
   <img align="center" alt="Visual Basic 6" height="28" width="56" src="https://user-images.githubusercontent.com/88748637/150884149-e5d5cfce-f07c-4504-97fa-a00fd5741ad4.png">
+  <a href="https://2no.co/2aahQ6" target="_blank" rel="noopener noreferrer"><img align="center" alt="benccalcyxzfi-msqlserver"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   <img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
