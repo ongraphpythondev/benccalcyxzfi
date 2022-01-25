@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square)
 - 👋 Hi, I’m @benccalcyxzfi
 - 👀 I’m interested in dev, fitness and science
 - 🌱 I’m currently learning angular
