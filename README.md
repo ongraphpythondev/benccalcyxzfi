@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com">
+<img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square">
 - 👋 Hi, I’m @benccalcyxzfi </br>
 - 👀 I’m interested in dev, fitness and true science  </br>
 
