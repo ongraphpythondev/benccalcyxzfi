@@ -1,7 +1,4 @@
-<div> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenccalcyxzfi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <a href="https://2no.co/2aahQ6" target="_blank" rel="noopener noreferrer"><img align="center" alt="benccalcyxzfi-msqlserver"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </div>
+<a href="https://hits.seeyoufarm.com">
 - 👋 Hi, I’m @benccalcyxzfi </br>
 - 👀 I’m interested in dev, fitness and true science  </br>
 
