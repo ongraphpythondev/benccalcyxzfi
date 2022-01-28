@@ -9,8 +9,11 @@
 
 </div>
   <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benccalcyxzfi&theme=dark" width="48%" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benccalcyxzfi&theme=dark">
   </div>
+  <h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7" >
+
 <div style="display: inline_block"><br>
   <img align="center" alt="benccalcyxzfi-html"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="benccalcyxzfi-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
